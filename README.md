@@ -1,6 +1,10 @@
 Тестовое задание
 -------------------
 Нужно смотреть следующие файлы:
+- https://github.com/decilya/test_for_danila/blob/main/common/services/NewsService.php
+- https://github.com/decilya/test_for_danila/blob/main/common/models/BirthdayRecipient.php
+- https://github.com/decilya/test_for_danila/blob/main/console/controllers/BirthdayController.php
+- https://github.com/decilya/test_for_danila/blob/b96d71b186b86f7d0ed7bc2cf4810cfad7fff467/common/config/main.php#L13
 
 ### ОПИСАНИЕ ЗАДАНИЯ:
 
